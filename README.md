@@ -157,23 +157,29 @@ Export business insights automatically.
 
 ### Dashboard Overview
 
-    C:\Users\abhis\OneDrive\Desktop\customer_retention_app\Screenshot 2026-02-08 205524.png
+<img width="1865" height="825" alt="Screenshot 2026-02-08 205524" src="https://github.com/user-attachments/assets/0e496bf4-f87d-46a4-998e-2bc63f56cd96" />
 
-    C:\Users\abhis\OneDrive\Desktop\customer_retention_app\Screenshot 2026-02-08 205538.png
+  
+<img width="1871" height="814" alt="Screenshot 2026-02-08 205538" src="https://github.com/user-attachments/assets/c69c4d67-6ffa-4d81-a579-c5d7305ab7d0" />
 
 ------------------------------------------------------------------------
 
 ### Churn Prediction Panel
 
-    C:\Users\abhis\OneDrive\Desktop\customer_retention_app\Screenshot 2026-02-08 205607.png
+<img width="1905" height="672" alt="Screenshot 2026-02-08 205607" src="https://github.com/user-attachments/assets/669e84dd-3136-4559-b99c-5e8011c5db53" />
+
 
 ------------------------------------------------------------------------
 
 ### Geographic Map
 
-    C:\Users\abhis\OneDrive\Desktop\customer_retention_app\Screenshot 2026-02-08 205921.png
+   
+<img width="1868" height="781" alt="Screenshot 2026-02-08 205921" src="https://github.com/user-attachments/assets/b4f4b373-50c8-40e5-b6ce-39e0b0b09e12" />
 
 ------------------------------------------------------------------------
+
+<img width="1857" height="761" alt="Screenshot 2026-02-08 205623" src="https://github.com/user-attachments/assets/d5cc5ce4-b46e-4417-8294-43bc94a20445" />
+
 
 ## 🛠 Technologies Used
 
@@ -244,3 +250,4 @@ If you found this project helpful:
 ⭐ Star the repository  
 ⭐ Share feedback  
 ⭐ Suggest improvements
+
